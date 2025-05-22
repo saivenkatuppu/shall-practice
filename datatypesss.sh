@@ -1,6 +1,6 @@
 #!/bin/bash
-number=100
-number=200
+NUMBER1=100
+NUMBER2=200
 
 TIMESTAMP=$(date)
 echo "script exectue date at : $TIMESTAMP"
