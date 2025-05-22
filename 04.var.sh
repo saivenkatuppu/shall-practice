@@ -1,6 +1,6 @@
 #!/bin/bash
 person1=$1
-person2=$1
+person2=$2
 
 echo "$person1 :: hii rs gsndu "
 echo "$person2 :: cheppu macha em katta "
