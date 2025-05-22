@@ -1,6 +1,6 @@
 #!/bin/bash
-person1=trump
-person2=modi
+person1=$person1
+person2=$person2
 
 echo "$person1 :: hii rs gsndu "
 echo "$person2 :: cheppu macha em katta "
