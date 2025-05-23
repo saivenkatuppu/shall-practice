@@ -7,3 +7,4 @@ NUMBER2=$2
  echo "Given $NUMBER is less than 10"
  else
  echo "Given $NUMBER is greater than 10"
+ fi
