@@ -22,3 +22,4 @@ echo "installing mysql is failure"
 fi
 else
 echo "my sql isalready in laptop"
+fi
