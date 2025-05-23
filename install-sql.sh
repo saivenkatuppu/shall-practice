@@ -9,4 +9,4 @@ then
 else
     echo "RUNNING WITH ROOT ACCESS"
 fi
-dnf install mysql -y
+dnf remove mysql -y
