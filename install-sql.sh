@@ -9,3 +9,4 @@ exit 1
 else
 echo "RUNNING WITH ROOT ACCESS"
 fi
+dnf install mysql -y
