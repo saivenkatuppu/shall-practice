@@ -15,5 +15,6 @@ dnf install mysql -y
     echo "installing mysql"
 else
     echo "installing my sql is failure"
+    exit 1
 
 fi
