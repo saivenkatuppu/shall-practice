@@ -10,7 +10,7 @@ else
     echo "you are a root user"
 fi
 dnf install mysql -y
- if [ $?  -et 0 ]
+ if [ $? -et 0 ]
  then 
     echo "installing mysql"
 else
