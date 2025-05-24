@@ -9,4 +9,3 @@ else
     echo "you are a root user"
 fi
 dnf install mysql -y
-fi
