@@ -1,5 +1,5 @@
 #!/bin/bash
-person1=vasu 
+person1=naveen 
 person2=sai
 
 echo "$person1 :: hii ra "
