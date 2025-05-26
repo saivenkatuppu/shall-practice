@@ -1,5 +1,5 @@
 #!/bin/bash
-USERID=$(id -u)
+USERID=$u(id -)
 
 if [ $USERID -ne 0 ]
 then 
@@ -11,7 +11,7 @@ fi
 VALIDATE(){
     if [ $1 -eq 0 ]
  then 
-    echo "installing $1 IS ....SUCCESS"
+    echo "installing $2 IS ....SUCCESS"
 else
     echo "installing my $2 is failure"
     exit 1
@@ -51,3 +51,4 @@ else
     echo "its already install"
     
 fi
+
