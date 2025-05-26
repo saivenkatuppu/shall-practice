@@ -8,4 +8,4 @@ echo -e "\e[34m modi  :: eddo ra bha edo alla russia maa macha putin help cheysa
 echo -e "\e[35m modi  :: eddo ra bha edo alla russia maa macha putin help cheysadu lee "
 echo -e "\e[36m modi  :: eddo ra bha edo alla russia maa macha putin help cheysadu lee "
 echo -e "\e[37m modi  :: eddo ra bha edo alla russia maa macha putin help cheysadu lee "
-echo -e "\e[0 mmodi  :: eddo ra bha edo alla russia maa macha putin help cheysadu lee "
+echo -e "\e[0 mmodi  :: eddo ra bha edo alla russia maa macha putin help cheysadu lee " 
