@@ -44,7 +44,7 @@ dnf list installed nginx
 
 if [ $? -ne 0 ]
  then
-    echo "MY SQL IS not installed...goingto install it"
+    echo "MY nginx IS not installed...goingto install it"
     dnf install nginx -y
  VALIDATE $? "NGINX"
 else 
